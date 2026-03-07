@@ -15,4 +15,4 @@ Before reporting any issue with regards to your data, please read the following 
 
 While reporting issue, please add screen shots and provide relevant information to help the team investigate. 
 
-# DO NOT POST ANY PERSONALLY IDENTIFIABLE OR SENSITIVE INFORMATION AS THIS IS A PUBLIC REPO AND OPEN TO ALL #
+### DO NOT POST ANY PERSONALLY IDENTIFIABLE OR SENSITIVE INFORMATION AS THIS IS A PUBLIC REPO AND OPEN TO INTERNET ###
