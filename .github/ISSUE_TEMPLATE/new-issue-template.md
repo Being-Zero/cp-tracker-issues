@@ -1,13 +1,13 @@
 ---
 name: Incorrect Data template
-about: Describe this issue template's purpose here.
+about: 'Report Incorrect Data '
 title: "[Incorrect Data] - "
 labels: Incorrect Data
 assignees: ''
 
 ---
 
-**DO NOT POST ANY PERSONALLY IDENTIFIABLE OR SENSITIVE INFORMATION AS THIS IS A PUBLIC REPO AND OPEN TO ALL**
+** DO NOT POST ANY PERSONALLY IDENTIFIABLE OR SENSITIVE INFORMATION AS THIS IS A PUBLIC REPO AND OPEN TO ALL **
 
 Use this template to report any inconsistencies in data. 
 
