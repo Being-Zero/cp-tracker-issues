@@ -1,11 +1,13 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
-labels: ''
+title: "[FEATURE] - "
+labels: enhancement
 assignees: ''
 
 ---
+
+**DO NOT POST ANY PERSONALLY IDENTIFIABLE OR SENSITIVE INFORMATION AS THIS IS A PUBLIC REPO AND OPEN TO INTERNET**
 
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
