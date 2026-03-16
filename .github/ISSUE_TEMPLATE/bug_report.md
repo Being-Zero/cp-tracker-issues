@@ -8,6 +8,7 @@ assignees: ''
 ---
 
 **DO NOT POST ANY PERSONALLY IDENTIFIABLE OR SENSITIVE INFORMATION AS THIS IS A PUBLIC REPO AND OPEN TO INTERNET**
+**MAKE SURE TO PROVIDE CPTRACKER PROFILE URL IN THE SECTION BELOW**
 
 **Describe the bug**
 A clear and concise description of what the bug is.
@@ -16,13 +17,15 @@ A clear and concise description of what the bug is.
 1. 
 2. 
 3. 
-4. 
 
-**Expected behavior**
+**Expected behaviour**
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
+
+**CP Tracker Profile Link**
+Share your CP Tracker profile link here.
 
 **Desktop (please complete the following information):**
  - OS: [e.g. iOS]
