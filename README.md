@@ -12,6 +12,7 @@ Before reporting any issue with regards to your data, please read the following 
 7. After contest ends, solved problems aren't considered as CONTEST SOLVED COUNT.
 8. Only contests where submissions were made while the contest is running are considered PARTICIPATED.
 9. "My Contests" in Mentorpick.com does not mean participation. It only means you have access to those contests.
+10. Contest Participation: Only if you have solved at least 1 problem during the contest, is considered as Participated. If you have solved after the contest or if you made submissions during but did not get ACCEPTED verdict, it will not be considered participated. Note that some sites, consider any submission during contest as ATTENDED, which is not the same as PARTCIPATED.
 
 While reporting issue, please add screen shots and provide relevant information to help the team investigate. 
 
