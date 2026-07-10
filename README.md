@@ -13,6 +13,7 @@ Before reporting any issue with regards to your data, please read the following 
 8. Only contests where submissions were made while the contest is running are considered PARTICIPATED.
 9. "My Contests" in Mentorpick.com does not mean participation. It only means you have access to those contests.
 10. Contest Participation: Only if you have solved at least 1 problem during the contest, is considered as Participated. If you have solved after the contest or if you made submissions during but did not get ACCEPTED verdict, it will not be considered participated. Note that some sites, consider any submission during contest as ATTENDED, which is not the same as PARTCIPATED.
+11. LEETCODE - For contest participation data to be fetched, Global Ranking on your profile should be unlocked. If you notice that contest data is not accurate in CPTracker, first check your Leetcode profile to confirm if the Global Ranking is unlocked.
 
 While reporting issue, please add screen shots and provide relevant information to help the team investigate. 
 
